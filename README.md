@@ -7,7 +7,7 @@ I created an command line application which acts like an Amazon-like storefront 
 ### Challenge #1: Customer View 
 ![Screenshot 1][logo1]
 
-[logo1]: https://github.com/emadkheiralla/Node_MYSQL/blob/master/SS2.png "Logo Title Text 1"
+[logo1]: https://github.com/emadkheiralla/Node_MYSQL/blob/master/newSS2.png "Logo Title Text 1"
 
 ### Challenge #2: Manager View 
 ![Screenshot 2][logo2]
