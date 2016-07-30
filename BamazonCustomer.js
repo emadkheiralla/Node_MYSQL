@@ -62,13 +62,14 @@ function myPrompt(){
 					    var totalSales = result[0].Price * answers.chooseQuantity;
 					    console.log("Your total is " + totalSales + "!");
 					});	
-					connection.end();
 		    	}else{
-		    		console.log("There is only " + currentQuantity + " available!");
+		    		console.log("There is only " + currentQuantity + " available to choose from!");
 		    	}
+		    	connection.end();
 		    }
 		});
 	});
+
 }
 showTable();
 
